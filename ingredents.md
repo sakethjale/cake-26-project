@@ -4,4 +4,3 @@ chocopower
 sugar
 chocolate
 milk
-butter
